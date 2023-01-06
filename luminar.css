@@ -1,0 +1,62 @@
+
+    .firstlabel {
+        
+        margin-bottom: 189px;
+    }
+    .secondlabel{
+        
+        margin-bottom: 97px;
+
+    }
+    #secondlabelcontent{
+        margin-left: 188px
+    }
+    #AI {
+        margin-left: -65%;
+    }
+    #placement{
+
+    margin-left: -127px;
+    }
+    #kerala {
+        margin-left: -36px;
+    }
+
+    span{
+        margin-left: 1%;
+    }
+    span.carousel-control-prev-icon.span {
+        margin-left: -84%;
+    }
+    span.carousel-control-prev-icon {
+        margin-left: -80%;
+    }
+    .viewcourse1{
+        background-color: blueviolet;
+        border: none;
+        border-radius: 29px;
+        height: 58px;
+        width: 171px;
+        margin-left: -71%;
+    }
+    .viewcourse2{
+        background-color: blueviolet;
+        border: none;
+        border-radius: 29px;
+        height: 58px;
+        width: 171px;
+        margin-bottom: 71px;
+        margin-top: -7%;
+        margin-left: -262px;
+
+    }
+    .modelbtn {
+        background-color: blueviolet;
+        color: white;
+        width: 150px;
+        font-weight: bold;
+        font-size: 13px;
+        height: 35px;
+        border-radius: 10px;
+        border: none;
+    }
